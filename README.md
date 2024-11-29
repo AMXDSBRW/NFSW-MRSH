@@ -1,4 +1,4 @@
-# Need For Speed: World Race Synchronization Host (NFSW-RSH)
+# Need For Speed: World - Race Synchronization Host (NFSW-RSH)
 
 
 ## 📖 Projektübersicht
